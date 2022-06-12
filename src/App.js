@@ -1,23 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
-
+import React,{useState} from "react";
+import fackData from './FackData/data.json';
+import Body from './Component/BodyPart/Body';
+import Header from './Component/Header/Header';
 function App() {
+  const [FackData] = useState(fackData);
+ 
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="header-part">
+      <Header></Header>
+     
       </header>
+      <div className="body_part">
+          <div  className="card">
+            {
+            FackData.map(data => <Body fackData={data}></Body>)
+            }
+          </div>
+      </div>
+     
     </div>
   );
 }
