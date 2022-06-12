@@ -1,10 +1,10 @@
 import React from 'react';
 import './Body.css';
 const Body = (props) => {
-    console.log(props.fackData);
+    //console.log(props.addFriendData);
     //let UserData = 
     let {name ,email,picture,phone,company,balance} = props.fackData;
-    
+    const reciveFriend = props.addFriendData ;
     return (
         <div className="body_data">
             <div className="left-part">
@@ -16,10 +16,10 @@ const Body = (props) => {
                     <li>Email : {email}</li>
                     <li>Phone : {phone}</li>
                     <li>Company : {company}</li>
-                    <li>Salary : {balance}</li>
+                    <li>Salary : ${balance}</li>
                 </ul>
                 
-                <button>Add Friend</button>
+                <button onClick={() => reciveFriend(props.fackData)}>Add Friend</button>
             </div>
         </div>
     );

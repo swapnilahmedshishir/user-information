@@ -1,19 +1,19 @@
 [
     {
       "_id": "62a4f8941be44a3ef6c93e7b",
-      "balance": "$1,429.18",
+      "balance": 1429,
       "picture": "https://iili.io/h0qCkG.jpg",
       "age": 30,
       "eyeColor": "brown",
-      "name": "Francis Key",
+      "name": "Swapnil Shishir",
       "gender": "male",
       "company": "GEOFORM",
-      "email": "franciskey@geoform.com",
-      "phone": "+1 (999) 479-2347"
+      "email": "ahmedshishirusa@gmail.com",
+      "phone": "+880 1766882298"
     },
     {
       "_id": "62a4f8948a8338e8bed35de1",
-      "balance": "$1,690.88",
+      "balance": 1690,
       "picture": "https://iili.io/h0qnpf.jpg",
       "age": 38,
       "eyeColor": "blue",
@@ -25,7 +25,7 @@
     },
     {
       "_id": "62a4f89437705b3cb8f07e06",
-      "balance": "$2,820.55",
+      "balance": 2820,
       "picture": "https://i.postimg.cc/pTcrBcCQ/person5.jpg",
       "age": 33,
       "eyeColor": "brown",
@@ -37,7 +37,7 @@
     },
     {
       "_id": "62a4f8947632fdb9934a6ca3",
-      "balance": "$3,855.16",
+      "balance": 3855,
       "picture": "https://i.postimg.cc/Hn5Js40Q/person6.jpg",
       "age": 38,
       "eyeColor": "brown",
@@ -49,7 +49,7 @@
     },
     {
       "_id": "62a4f894ba6ab53969e2abb5",
-      "balance": "$2,261.84",
+      "balance": 2261,
       "picture": "https://i.postimg.cc/GmbBdD4y/person7.jpg",
       "age": 35,
       "eyeColor": "brown",
@@ -61,7 +61,7 @@
     },
     {
       "_id": "62a4f894f6e609dc17ac7756",
-      "balance": "$1,837.45",
+      "balance": 1837,
       "picture": "https://i.postimg.cc/zGdfNcms/person9.jpg",
       "age": 26,
       "eyeColor": "green",
@@ -73,7 +73,7 @@
     },
     {
       "_id": "62a4f894678876a092e5ad85",
-      "balance": "$3,046.05",
+      "balance": 3046,
       "picture": "https://i.postimg.cc/SK3N2YxV/person10.jpg",
       "age": 21,
       "eyeColor": "brown",
@@ -85,7 +85,7 @@
     },
     {
       "_id": "62a4f894e7e73326b43eb5cc",
-      "balance": "$3,627.28",
+      "balance": 3627,
       "picture": "https://i.postimg.cc/gjPz49RZ/person11.jpg",
       "age": 24,
       "eyeColor": "blue",
@@ -97,7 +97,7 @@
     },
     {
       "_id": "62a4f8947db1fcaf37148170",
-      "balance": "$2,239.69",
+      "balance": 2239,
       "picture": "https://i.postimg.cc/mkNb5dN6/person12.jpg",
       "age": 26,
       "eyeColor": "green",
@@ -109,7 +109,7 @@
     },
     {
       "_id": "62a4f8944fc432118d2440a6",
-      "balance": "$3,234.66",
+      "balance": 3234,
       "picture": "https://i.postimg.cc/HsdWygTG/person13.jpg",
       "age": 31,
       "eyeColor": "brown",
@@ -121,7 +121,7 @@
     },
     {
       "_id": "62a4f894682a4e6e7661e53b",
-      "balance": "$1,535.69",
+      "balance": 1535,
       "picture": " https://i.postimg.cc/zGPq6HK5/person2.jpg",
       "age": 37,
       "eyeColor": "green",
@@ -133,7 +133,7 @@
     },
     {
       "_id": "62a4f8948ce3e83ab15c53fc",
-      "balance": "$3,239.47",
+      "balance": 3239,
       "picture": "https://i.postimg.cc/X7zh0fH2/person14.jpg",
       "age": 35,
       "eyeColor": "blue",
@@ -145,7 +145,7 @@
     },
     {
       "_id": "62a4f894cabdd8f8f4bbd62c",
-      "balance": "$1,160.61",
+      "balance": 1160,
       "picture": "https://i.postimg.cc/zGhdZ9RB/person15.jpg",
       "age": 36,
       "eyeColor": "green",
@@ -157,7 +157,7 @@
     },
     {
       "_id": "62a4f894855333be96b024d8",
-      "balance": "$2,225.06",
+      "balance": 2225,
       "picture": " https://i.postimg.cc/6q7rVvr3/person16.jpg",
       "age": 21,
       "eyeColor": "blue",
@@ -169,7 +169,7 @@
     },
     {
       "_id": "62a4f894a7351c337bb05c50",
-      "balance": "$2,870.01",
+      "balance": 2870,
       "picture": "https://i.postimg.cc/2jBTBs2x/person17.jpg",
       "age": 34,
       "eyeColor": "green",
@@ -181,7 +181,7 @@
     },
     {
       "_id": "62a4f8945a5382bd719ad15f",
-      "balance": "$3,529.05",
+      "balance": 3529,
       "picture": "https://i.postimg.cc/QNkmbQZB/person1.jpg",
       "age": 21,
       "eyeColor": "brown",
@@ -193,14 +193,14 @@
     },
     {
       "_id": "62a4f894db7ac503505b0a21",
-      "balance": "$3,588.40",
+      "balance": 3588,
       "picture": "https://i.postimg.cc/D0DghfcS/my-brst-editing-pick-300x300-removebg-preview.jpg",
       "age": 31,
       "eyeColor": "blue",
-      "name": "Chen Workman",
+      "name": "Swapnil Shishir",
       "gender": "male",
       "company": "SENMEI",
-      "email": "chenworkman@senmei.com",
-      "phone": "+1 (960) 511-2844"
+      "email": "ahmedshishirusa@gmail.com",
+      "phone": "+880 1766882298"
     }
   ]

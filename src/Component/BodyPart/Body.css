@@ -5,17 +5,17 @@
     align-items: center;
     margin: 0 auto;
     display: flex;
-    width: 600px;
+    max-width: 650px;
     margin-bottom: 10px;
    
     
 }
 .left-part{
     border-right: 2px dotted gray;
-    width: 30%;
+    width: 35%;
 }
 .right-part{
-    width: 70%;
+    width: 60%;
 }
 .right-part p{
     align-items: left;
@@ -28,17 +28,22 @@
     list-style: none;
     color:#3C4D63;
     font-size: 18px;
-    weight: 700;
+    font-weight: 500;
 }
 button{
     background-color:#3C4D63;
     color:#428CF1;
     font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
-    weight: 700;
+    font-weight: 600;
     font-size: 16px;
     line-height: 20px;
     padding: 7px 36px;
     border:none;
     border-radius:6px;
+    cursor: pointer;
+
     
+}
+button:hover{
+    background-color:#304055;
 }
